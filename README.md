@@ -1,10 +1,21 @@
 # SensoroStadium
 
-Sapienza - Università di Roma Master of Science in Engineering in Computer Science Pervasive Systems, a.y. 2016-17
-Project realized by Giuseppe D'Alpino for Pervasive Systems class from MS in Computer Engineering at Sapienza - Università di Roma.
+Project realized by Giuseppe D'Alpino for Pervasive Systems class of Professor Ioannis Chatzigiannakis from Sapienza - University of Rome Master of Science in Engineering in Computer Science, a.y. 2016-17.
 
-# Linkedin Profile
+A simple example of sensoro beacons usage. It consists of an application that tries to make the experience of being in a football stadium more complete and funny.
 
-https://www.linkedin.com/in/giuseppe-d-alpino-517561134/
+# Technologies
 
-# Slideshare presentation
+- Beacons
+- PHP
+- Java
+- Android
+
+
+# Links
+
+Link to my Linkedin Profile --> https://www.linkedin.com/in/giuseppe-d-alpino-517561134/
+
+Link to the presentation ---> 
+
+
