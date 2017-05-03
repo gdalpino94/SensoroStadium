@@ -16,6 +16,6 @@ A simple example of sensoro beacons usage. It consists of an application that tr
 
 Link to my Linkedin Profile --> https://www.linkedin.com/in/giuseppe-d-alpino-517561134/
 
-Link to the presentation ---> 
+Link to the presentation ---> https://www.slideshare.net/GiuseppeDAlpino/sensoro-beacon
 
 
